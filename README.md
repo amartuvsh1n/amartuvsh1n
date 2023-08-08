@@ -1,11 +1,9 @@
-<h1 align="center">Hi👋, I'm Amaraa</h1>
-
-<p align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FE3F7&width=435&lines=Lamy's+fan+boy%F0%9F%9A%80" alt="Typing SVG" /></p>
+<h1 align="center">Hi ther👋</h1>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Lamy's%20fan%20boy%20%F0%9F%9A%80;Experienced%20System%20Engineer💻;&font=Fira%20Code&center=true&width=450&height=45&color=cyan&vCenter=true&pause=1000&size=24" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Lamy's%20fan%20boy%F0%9F%9A%80;Experienced%20System%20Engineer%F0%9F%92%BB;&font=Fira%20Code&center=true&width=450&height=45&color=1FE3F7&vCenter=true&pause=1000&size=24" /></a>
 </p>
 
 <!-- <h3 align="center">Cloud fan.</h3> -->
@@ -34,12 +32,9 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="26px"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px"/> </a>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 </p>
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartuvsh1n&show_icons=true&locale=en&layout=compact" alt="amartuvsh1n" /></p>
