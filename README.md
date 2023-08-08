@@ -1,5 +1,9 @@
 <h1 align="center">Hi👋, I'm Amaraa</h1>
-<h3 align="center">Cloud fan.</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FE3F7&width=435&lines=Lamy's+fan+boy%F0%9F%9A%80" alt="Typing SVG" /></a>
+/p>
+
+#<h3 align="center">Cloud fan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartuvsh1n&label=Profile%20views&color=0e75b6&style=flat" alt="amartuvsh1n" /> </p>
 <!--
@@ -29,7 +33,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartuvsh1n&show_icons=true&locale=en&layout=compact" alt="amartuvsh1n" /></p>
+#<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartuvsh1n&show_icons=true&locale=en&layout=compact" alt="amartuvsh1n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amartuvsh1n&show_icons=true&locale=en" alt="amartuvsh1n" /></p>
 
