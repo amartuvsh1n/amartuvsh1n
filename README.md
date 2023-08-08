@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Lamy's%20fan%20boy%20%F0%9F%9A%80;Experienced%20System%20Engineer;&font=Fira%20Code&center=true&width=450&height=45&color=cyan&vCenter=true&pause=1000&size=24" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Lamy's%20fan%20boy%20%F0%9F%9A%80;Experienced%20System%20Engineer💻;&font=Fira%20Code&center=true&width=450&height=45&color=cyan&vCenter=true&pause=1000&size=24" /></a>
 </p>
 
 <!-- <h3 align="center">Cloud fan.</h3> -->
