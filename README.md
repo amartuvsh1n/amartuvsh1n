@@ -1,7 +1,12 @@
 <h1 align="center">Hi👋, I'm Amaraa</h1>
 
-<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FE3F7&width=435&lines=Lamy's+fan+boy%F0%9F%9A%80" alt="Typing SVG" /></p>
+<p align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FE3F7&width=435&lines=Lamy's+fan+boy%F0%9F%9A%80" alt="Typing SVG" /></p>
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Lamy's%20fan%20boy%20%F0%9F%9A%80;Experienced%20System%2FEngineer%20Designer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <!-- <h3 align="center">Cloud fan.</h3> -->
 
