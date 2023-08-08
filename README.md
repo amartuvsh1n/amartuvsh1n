@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm amartuvsh1n</h1>
-<h3 align="center">Crazy Asian system engineer.</h3>
+<h1 align="center">Hi👋, I'm Amaraa</h1>
+<h3 align="center">Cloud fan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartuvsh1n&label=Profile%20views&color=0e75b6&style=flat" alt="amartuvsh1n" /> </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amartuvsh1n" alt="amartuvsh1n" /></a> </p>
-
+-->
 - 🔭 I’m currently working on [tbs](gitlab.tbsolutions.com)
 
 - 🌱 I’m currently learning **python**
