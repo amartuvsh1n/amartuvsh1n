@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **python**
 - 👨‍💻 All of my projects are available at [github](github.com/amartuvsh1n) & [gitlab](https://gitlab.com/amartuvsh1n)
-- 📝 I regularly write articles on [medium link bna](medium link bna)
+- 📝 I regularly write articles on [medium](medium_link_bna.com)
 - 💬 Talk with me about **virtualization, cloud computing and automation**
 
 <h3 align="left">Connect with me:</h3>
@@ -40,8 +40,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartuvsh1n&show_icons=true&locale=en&layout=compact" alt="amartuvsh1n" /></p>
 -->
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amartuvsh1n&show_icons=true&locale=en" alt="amartuvsh1n" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amartuvsh1n&" alt="amartuvsh1n" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amartuvsh1n&show_icons=true&locale=en" alt="amartuvsh1n" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amartuvsh1n&" alt="amartuvsh1n" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartuvsh1n&label=Profile%20views&color=0e75b6&style=flat" alt="amartuvsh1n" /> </p>
 
