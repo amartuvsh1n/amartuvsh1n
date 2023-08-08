@@ -1,4 +1,4 @@
-<h1 align="center">Hi ther👋</h1>
+<h1 align="center">Hi there👋</h1>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -26,7 +26,7 @@
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amartuvsh1n&repo=VMware_to_OpenStack_migration&theme=react&bg_color=1F222E&title_color=1FE3F7&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/amartuvsh1n?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <h3 align="left">Connect with me:</h3>
@@ -55,8 +55,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amartuvsh1n&show_icons=true&locale=en" alt="amartuvsh1n" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amartuvsh1n&" alt="amartuvsh1n" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amartuvsh1n&label=Profile%20views&color=0e75b6&style=flat" alt="amartuvsh1n" /> </p>
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=зочилсон-хүмүүсийн-тоо)
 <!--
 **amartuvsh1n/amartuvsh1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
