@@ -17,6 +17,12 @@
 - 📝 I regularly write articles on [medium](medium_link_bna.com)
 - 💬 Talk with me about **virtualization, cloud computing and automation**
 
+### ☠️ CyberSecurity Career:
+
+- ☸️ Goals for 2023: Road to [CKA][] 
+- 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Kernel Virtualization | Hacking
+- 🐧 I am studying right now: [RHCE][rhce] | Ansible | LVM | Virtulazation
+
 <details open> 
   <summary><h2>📘 My Open Source Projects</h2></summary>
 
