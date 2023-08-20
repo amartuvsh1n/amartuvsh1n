@@ -12,12 +12,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amartuvsh1n" alt="amartuvsh1n" /></a> </p>
 -->
 
+### My skills:
 - 🌱 I’m currently learning **python**
 - 👨‍💻 All of my projects are available at [github](github.com/amartuvsh1n) & [gitlab](https://gitlab.com/amartuvsh1n)
 - 📝 I regularly write articles on [medium](medium_link_bna.com)
 - 💬 Talk with me about **virtualization, cloud computing and automation**
 
-### ☠️ CyberSecurity Career:
+### My Career:
 
 - ☸️ Goals for 2023: Road to [CKA][] 
 - 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Kernel Virtualization | Hacking
