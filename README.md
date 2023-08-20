@@ -54,15 +54,13 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 </p>
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartuvsh1n&show_icons=true&locale=en&layout=compact" alt="amartuvsh1n" /></p>
--->
+
 <p>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=amartuvsh1n&show_icons=true&locale=en" alt="amartuvsh1n" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amartuvsh1n&" alt="amartuvsh1n" />
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartuvsh1n&show_icons=true&locale=en&layout=compact" alt="amartuvsh1n" /></p>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=зочилсон-хүмүүсийн-тоо)
 <!--
 **amartuvsh1n/amartuvsh1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
